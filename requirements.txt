@@ -16,3 +16,6 @@ Cython==0.29.36
 wheel==0.37.1
 pip>=22.0
 setuptools>=60.0
+altair
+
+
